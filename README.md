@@ -1,1 +1,2 @@
 # Repository
+This file generates histograms based on a vehicle dataset, visualizing the distribution of various features such as manufacturing year, fuel consumption, or vehicle type. The histograms help identify patterns in the data, such as the concentration of vehicles within specific year ranges or fuel consumption levels. It's useful for exploratory data analysis in research projects or automotive market analysis.
